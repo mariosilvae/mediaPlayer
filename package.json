@@ -1,0 +1,16 @@
+{
+  "name": "mediaPlayer",
+  "version": "1.0.0",
+  "description": "Proyecto para manipular la API de Media player del DOM",
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Mario Silva <mario.silvae@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
