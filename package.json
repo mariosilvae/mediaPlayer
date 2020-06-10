@@ -8,9 +8,12 @@
   "author": "Mario Silva <mario.silvae@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "start": "live-server"
+    "start": "parcel index.html"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
-  }
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "last 1 chrome version"
+  ]
 }
